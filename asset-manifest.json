@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bhuneshk.github.io/Movie-Search-Application/static/css/main.073c9b0a.css",
-    "main.js": "/bhuneshk.github.io/Movie-Search-Application/static/js/main.c90356fa.js",
-    "static/js/787.b4c0d7a7.chunk.js": "/bhuneshk.github.io/Movie-Search-Application/static/js/787.b4c0d7a7.chunk.js",
-    "index.html": "/bhuneshk.github.io/Movie-Search-Application/index.html",
-    "main.073c9b0a.css.map": "/bhuneshk.github.io/Movie-Search-Application/static/css/main.073c9b0a.css.map",
-    "main.c90356fa.js.map": "/bhuneshk.github.io/Movie-Search-Application/static/js/main.c90356fa.js.map",
-    "787.b4c0d7a7.chunk.js.map": "/bhuneshk.github.io/Movie-Search-Application/static/js/787.b4c0d7a7.chunk.js.map"
+    "main.css": "/Movie-Search-Application/static/css/main.073c9b0a.css",
+    "main.js": "/Movie-Search-Application/static/js/main.e2366b51.js",
+    "static/js/787.b4c0d7a7.chunk.js": "/Movie-Search-Application/static/js/787.b4c0d7a7.chunk.js",
+    "index.html": "/Movie-Search-Application/index.html",
+    "main.073c9b0a.css.map": "/Movie-Search-Application/static/css/main.073c9b0a.css.map",
+    "main.e2366b51.js.map": "/Movie-Search-Application/static/js/main.e2366b51.js.map",
+    "787.b4c0d7a7.chunk.js.map": "/Movie-Search-Application/static/js/787.b4c0d7a7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.c90356fa.js"
+    "static/js/main.e2366b51.js"
   ]
 }
