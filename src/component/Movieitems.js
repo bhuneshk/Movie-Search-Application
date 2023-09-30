@@ -10,7 +10,7 @@ export class Movieitems extends Component {
           <h5 className="card-title">{title}</h5>
           <p className="card-text">{year}</p>
           <p className="card-text">{type}</p>
-          <button type="button" target='_blank' class="btn btn-primary" href={`https://www.omdbapi.com/?i=${id}&apikey=982ff953`}>Go To</button>
+          {/*<button type="button" target='_blank' class="btn btn-primary" href={`https://www.omdbapi.com/?i=${id}&apikey=982ff953`}>Go To</button> */}
         </div>
       </div>
     )
